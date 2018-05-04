@@ -2,26 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e761189-3c51-4dbb-88ec-788b28ddd0c2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/cap06/bubble_sort1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cap06/contador_de_palavras.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cap06/exercicio-6-10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cap06/exercicio-6-11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cap06/exercicio-6-13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cap06/exercicio-6-17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cap06/exercicio-6-18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cap06/exercicio-6-8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cap06/exercicio-6-9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cap06/listagem -6-35.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cap06/listagem-6-34.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cap06/listagem-6-43.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cap06/listagem-6-53.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cap06/listagem-6.46.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cap06/sarcozy.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python-turma1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python-turma1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap06/busca_palavra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap06/inventario.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap06/inventario2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cap05/exemplos/.idea/exemplos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cap05/exemplos/.idea/exemplos.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cap06/teste.py" beforeDir="false" afterPath="$PROJECT_DIR$/cap06/teste.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,8 +16,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="teste.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="teste.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cap06/teste.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="inventario.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cap06/inventario.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-194" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="inventario2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cap06/inventario2.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="bubble_sort1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cap06/bubble_sort1.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="busca_palavra.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cap06/busca_palavra.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -52,9 +58,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/cap3/teste.py" />
-        <option value="$PROJECT_DIR$/cap3/exercicio-3-7.py" />
-        <option value="$PROJECT_DIR$/cap3/exercicio-3-8.py" />
         <option value="$PROJECT_DIR$/cap3/exercicio-3-9.py" />
         <option value="$PROJECT_DIR$/cap3/exercicio-3-10.py" />
         <option value="$PROJECT_DIR$/cap3/exercicio-3-11.py" />
@@ -101,8 +104,11 @@
         <option value="$PROJECT_DIR$/cap06/exercicio-6-7.py" />
         <option value="$PROJECT_DIR$/cap06/listagem-6-23-pesquisa-sequencial.py" />
         <option value="$PROJECT_DIR$/cap06/listas-e-tuplas.py" />
-        <option value="$PROJECT_DIR$/cap06/contador_de_palavras.py" />
         <option value="$PROJECT_DIR$/cap06/teste.py" />
+        <option value="$PROJECT_DIR$/cap06/contador_de_palavras.py" />
+        <option value="$PROJECT_DIR$/cap06/inventario.py" />
+        <option value="$PROJECT_DIR$/cap06/inventario2.py" />
+        <option value="$PROJECT_DIR$/cap06/contador_de_palavras2.py" />
       </list>
     </option>
   </component>
@@ -119,6 +125,25 @@
       <pane id="ProjectPane">
         <subPane>
           <expand>
+            <path>
+              <item name="python-turma1-2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-turma1-2018" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-turma1-2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-turma1-2018" type="462c0819:PsiDirectoryNode" />
+              <item name="cap06" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-turma1-2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-turma1-2018" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-turma1-2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-turma1-2018" type="462c0819:PsiDirectoryNode" />
+              <item name="venv1" type="462c0819:PsiDirectoryNode" />
+            </path>
             <path>
               <item name="python-turma1-2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
@@ -158,8 +183,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.teste">
-    <configuration name="exercicio-6-7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.contador_de_palavras2">
+    <configuration name="contador_de_palavras2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-turma1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -171,13 +196,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap06/exercicio-6-7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap06/busca_palavra.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="listagem-6-22-pilha-de-pratos" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="inventario" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-turma1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -189,13 +214,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap06/listagem-6-22-pilha-de-pratos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap06/inventario.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="listagem-6-23-pesquisa-sequencial" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="inventario2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-turma1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -207,7 +232,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap06/listagem-6-23-pesquisa-sequencial.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap06/inventario2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -250,19 +275,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.listagem-6-22-pilha-de-pratos" />
-      <item itemvalue="Python.exercicio-6-7" />
-      <item itemvalue="Python.listagem-6-23-pesquisa-sequencial" />
       <item itemvalue="Python.listas-e-tuplas" />
       <item itemvalue="Python.teste" />
+      <item itemvalue="Python.inventario" />
+      <item itemvalue="Python.inventario2" />
+      <item itemvalue="Python.contador_de_palavras2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.contador_de_palavras2" />
+        <item itemvalue="Python.inventario" />
+        <item itemvalue="Python.inventario2" />
         <item itemvalue="Python.teste" />
         <item itemvalue="Python.listas-e-tuplas" />
-        <item itemvalue="Python.listagem-6-23-pesquisa-sequencial" />
-        <item itemvalue="Python.exercicio-6-7" />
-        <item itemvalue="Python.listagem-6-22-pilha-de-pratos" />
       </list>
     </recent_temporary>
   </component>
@@ -291,7 +316,21 @@
       <option name="project" value="LOCAL" />
       <updated>1521900997086</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="'fourth commit'">
+      <created>1523661943274</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1523661943274</updated>
+    </task>
+    <task id="LOCAL-00004" summary="'fifth commit'">
+      <created>1525292764577</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1525292764577</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -299,21 +338,31 @@
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2573471" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36474165" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50039715" side_tool="true" weight="0.52279633" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36474165" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49960285" visible="true" weight="0.41489363" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2931174" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4051724" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -322,30 +371,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="'first commit'" />
     <MESSAGE value="'second commit'" />
-    <option name="LAST_COMMIT_MESSAGE" value="'second commit'" />
+    <MESSAGE value="'fourth commit'" />
+    <MESSAGE value="'fifth commit'" />
+    <option name="LAST_COMMIT_MESSAGE" value="'fifth commit'" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/cap06/teste.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="26" lean-forward="true" selection-end-line="11" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap03/exercicio-3-8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap03/exercicio-3-10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cap03/exercico-3-12.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="258">
@@ -619,20 +649,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cap06/exercicio-6-2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" selection-start-line="6" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap06/exercicio-6-3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cap06/exercicio-6-5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -644,13 +660,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap06/exercicio-6-7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -668,15 +677,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cap06/contador_de_palavras.py">
+    <entry file="file://$PROJECT_DIR$/cap06/exercicio-6-3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        <state relative-caret-position="54">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cap06/teste.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/cap06/exercicio-6-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap06/contador_de_palavras.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap06/exercicio-6-7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap06/inventario.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-194" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap06/inventario2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap06/contador_de_palavras2.py" />
   </component>
 </project>
