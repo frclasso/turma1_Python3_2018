@@ -7,7 +7,7 @@ def main():
 
     fh = open('sarcozy.txt')
     for line in fh:
-        if re.search(' Sarkozy', line):
+        if re.search(' president', line, re.IGNORECASE):
             print(line, end='')
 
 
