@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e761189-3c51-4dbb-88ec-788b28ddd0c2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/cap07/jogo_da_forca.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap07/exercicio-7-7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap07/exercicio-7-8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap07/exercicio-7-9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,11 +64,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jogo_da_forca.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cap07/jogo_da_forca.py">
+      <file leaf-file-name="exercicio-7-7.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cap07/exercicio-7-7.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="36" column="19" lean-forward="true" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+            <state relative-caret-position="271">
+              <caret line="42" column="19" selection-end-line="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exercicio-7-9.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cap07/exercicio-7-9.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exercicio-7-8.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cap07/exercicio-7-8.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="58" column="16" selection-start-line="58" selection-start-column="16" selection-end-line="59" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -104,9 +124,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/cap5/exercicio-5-8.py" />
-        <option value="$PROJECT_DIR$/cap5/exercicio-5-9.py" />
-        <option value="$PROJECT_DIR$/cap5/listagem-5-10.py" />
         <option value="$PROJECT_DIR$/cap5/exercicio-5-11.py" />
         <option value="$PROJECT_DIR$/cap5/exercicio-5-12.py" />
         <option value="$PROJECT_DIR$/cap5/exercicio-5-13.py" />
@@ -154,7 +171,10 @@
         <option value="$PROJECT_DIR$/projetos/bubble_sort1.py" />
         <option value="$PROJECT_DIR$/cap08/fibonacci.py" />
         <option value="$PROJECT_DIR$/projetos/inventario2.py" />
+        <option value="$PROJECT_DIR$/cap07/exercicio-7-7.py" />
         <option value="$PROJECT_DIR$/cap07/jogo_da_forca.py" />
+        <option value="$PROJECT_DIR$/cap07/exercicio-7-8.py" />
+        <option value="$PROJECT_DIR$/cap07/exercicio-7-9.py" />
       </list>
     </option>
   </component>
@@ -240,8 +260,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.jogo_da_forca">
-    <configuration name="bubble_sort1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.exercicio-7-10-velha">
+    <configuration name="exercicio-7-10-velha" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-turma1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -249,17 +269,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/projetos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cap07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/projetos/bubble_sort1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap07/exercicio-7-10-velha.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exercicio-7-7" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-turma1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -267,17 +287,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cap08" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cap07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap08/fibonacci.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap07/exercicio-7-7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="fibonacci_hint" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exercicio-7-8" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-turma1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -285,17 +305,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cap08" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cap07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap08/fibonacci_hint.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap07/exercicio-7-8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="inventario2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exercicio-7-9" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-turma1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -303,11 +323,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/projetos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cap07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/projetos/inventario2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap07/exercicio-7-9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -332,19 +352,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.inventario2" />
-      <item itemvalue="Python.bubble_sort1" />
-      <item itemvalue="Python.fibonacci" />
-      <item itemvalue="Python.fibonacci_hint" />
       <item itemvalue="Python.jogo_da_forca" />
+      <item itemvalue="Python.exercicio-7-7" />
+      <item itemvalue="Python.exercicio-7-8" />
+      <item itemvalue="Python.exercicio-7-9" />
+      <item itemvalue="Python.exercicio-7-10-velha" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exercicio-7-10-velha" />
+        <item itemvalue="Python.exercicio-7-9" />
+        <item itemvalue="Python.exercicio-7-8" />
+        <item itemvalue="Python.exercicio-7-7" />
         <item itemvalue="Python.jogo_da_forca" />
-        <item itemvalue="Python.inventario2" />
-        <item itemvalue="Python.fibonacci_hint" />
-        <item itemvalue="Python.fibonacci" />
-        <item itemvalue="Python.bubble_sort1" />
       </list>
     </recent_temporary>
   </component>
@@ -408,7 +428,14 @@
       <option name="project" value="LOCAL" />
       <updated>1525535700008</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="'nineth commit'">
+      <created>1526130456025</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1526130456025</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -426,7 +453,7 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24225576" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32871974" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.1764706" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38927335" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -453,41 +480,25 @@
     <MESSAGE value="'sixth commit'" />
     <MESSAGE value="'seventh commit'" />
     <MESSAGE value="'eigth commit'" />
-    <option name="LAST_COMMIT_MESSAGE" value="'eigth commit'" />
+    <MESSAGE value="'nineth commit'" />
+    <option name="LAST_COMMIT_MESSAGE" value="'nineth commit'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/cap07/exercicio-7-9.py</url>
+          <line>68</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="3" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/projetos/sarcozy.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projetos/contador_de_palavras.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projetos/RSS/rss.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding>
-            <element signature="e#164#197#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cap05/exemplos/for-working.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -705,13 +716,6 @@
         <state relative-caret-position="-439" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cap08/fibonacci.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cap08/fibonacci_hint.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -760,6 +764,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/cap07/jogo_da_forca.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="43" column="28" lean-forward="true" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/projetos/inventario2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -767,10 +778,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cap07/jogo_da_forca.py">
+    <entry file="file://$PROJECT_DIR$/cap08/fibonacci.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="36" column="19" lean-forward="true" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+        <state relative-caret-position="19">
+          <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap07/exercicio-7-7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="42" column="19" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap07/exercicio-7-8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="58" column="16" selection-start-line="58" selection-start-column="16" selection-end-line="59" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap07/exercicio-7-9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
         </state>
       </provider>
     </entry>
