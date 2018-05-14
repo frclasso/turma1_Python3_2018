@@ -4,4 +4,4 @@ def fibo(n):
         print(b, flush=True)
         a,b = b, a+ b
     print()
-fibo(60)
+#fibo(60)

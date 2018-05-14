@@ -12,7 +12,7 @@ def fibonacci(n):
         return newValue
 
 
-print(fibonacci(80))
+#print(fibonacci(80))
 
 """O dicionário chamado previous guarda os números de Fibonacci que nós ja conhecemos. 
 Ele começa com apenas dois pares: 0 possui 1; e 1 possui 1.

@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e761189-3c51-4dbb-88ec-788b28ddd0c2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/cap07/exercicio-7-7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cap07/exercicio-7-8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cap07/exercicio-7-9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap08/exercicio-8-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap08/exercicio-8-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap08/exercicio-8-3-area-do-quadrado.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap08/funcao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap08/listagem-8-4-par-ou-impar.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cap08/fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/cap08/fibonacci.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cap08/fibonacci_hint.py" beforeDir="false" afterPath="$PROJECT_DIR$/cap08/fibonacci_hint.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,77 +20,56 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="listagem-7-12.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cap07/listagem-7-12.py">
+      <file leaf-file-name="fibonacci_hint.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cap08/fibonacci_hint.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+            <state relative-caret-position="38">
+              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contador_de_palavras.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projetos/contador_de_palavras.py">
+      <file leaf-file-name="funcao.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cap08/funcao.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="41">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="38">
+              <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="zara.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projetos/zara.py">
+      <file leaf-file-name="listagem-8-4-par-ou-impar.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cap08/listagem-8-4-par-ou-impar.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+            <state relative-caret-position="285">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="inventario.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projetos/inventario.py">
+      <file leaf-file-name="exercicio-8-1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cap08/exercicio-8-1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="22" column="42" lean-forward="true" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+            <state relative-caret-position="190">
+              <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="inventario2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projetos/inventario2.py">
+      <file leaf-file-name="exercicio-8-2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cap08/exercicio-8-2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <caret line="9" column="21" selection-start-line="8" selection-end-line="9" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="exercicio-7-7.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cap07/exercicio-7-7.py">
+      <file leaf-file-name="exercicio-8-3-area-do-quadrado.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cap08/exercicio-8-3-area-do-quadrado.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="42" column="19" selection-end-line="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="exercicio-7-9.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cap07/exercicio-7-9.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="exercicio-7-8.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cap07/exercicio-7-8.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="58" column="16" selection-start-line="58" selection-start-column="16" selection-end-line="59" selection-end-column="13" />
+            <state relative-caret-position="285">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -94,17 +77,8 @@
       <file leaf-file-name="fibonacci.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cap08/fibonacci.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fibonacci_hint.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cap08/fibonacci_hint.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+            <state>
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -124,12 +98,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/cap5/exercicio-5-11.py" />
-        <option value="$PROJECT_DIR$/cap5/exercicio-5-12.py" />
-        <option value="$PROJECT_DIR$/cap5/exercicio-5-13.py" />
-        <option value="$PROJECT_DIR$/cap5/exercicio-5-14.py" />
-        <option value="$PROJECT_DIR$/cap5/exercicio-5-15.py" />
-        <option value="$PROJECT_DIR$/cap5/teste.py" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/cap5/exercicio-5-18.py" />
         <option value="$PROJECT_DIR$/cap5/listagem-5-15.py" />
@@ -152,7 +120,6 @@
         <option value="$PROJECT_DIR$/cap06/inventario2.py" />
         <option value="$PROJECT_DIR$/cap06/contador_de_palavras2.py" />
         <option value="$PROJECT_DIR$/cap06/contador_de_palavras.py" />
-        <option value="$PROJECT_DIR$/cap08/fibonacci_hint.py" />
         <option value="$PROJECT_DIR$/cap06/projetos/sarcozy.txt" />
         <option value="$PROJECT_DIR$/cap06/projetos/busca_palavra2.py" />
         <option value="$PROJECT_DIR$/cap06/knigths.py" />
@@ -169,20 +136,27 @@
         <option value="$PROJECT_DIR$/projetos/busca_palavra.py" />
         <option value="$PROJECT_DIR$/projetos/busca_palavra2.py" />
         <option value="$PROJECT_DIR$/projetos/bubble_sort1.py" />
-        <option value="$PROJECT_DIR$/cap08/fibonacci.py" />
         <option value="$PROJECT_DIR$/projetos/inventario2.py" />
         <option value="$PROJECT_DIR$/cap07/exercicio-7-7.py" />
         <option value="$PROJECT_DIR$/cap07/jogo_da_forca.py" />
         <option value="$PROJECT_DIR$/cap07/exercicio-7-8.py" />
         <option value="$PROJECT_DIR$/cap07/exercicio-7-9.py" />
+        <option value="$PROJECT_DIR$/cap07/exercicio-7-10-velha.py" />
+        <option value="$PROJECT_DIR$/cap08/fibonacci.py" />
+        <option value="$PROJECT_DIR$/cap08/fibonacci_hint.py" />
+        <option value="$PROJECT_DIR$/cap08/listagem-8-4-par-ou-impar.py" />
+        <option value="$PROJECT_DIR$/cap08/exercicio-8-1.py" />
+        <option value="$PROJECT_DIR$/cap08/exercicio-8-2.py" />
+        <option value="$PROJECT_DIR$/cap08/exercicio-8-3-area-do-quadrado.py" />
+        <option value="$PROJECT_DIR$/cap08/funcao.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1291" />
-    <option name="y" value="22" />
-    <option name="width" value="1280" />
-    <option name="height" value="698" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="6" />
+    <option name="y" value="100" />
+    <option name="width" value="1285" />
+    <option name="height" value="700" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -198,11 +172,6 @@
             <path>
               <item name="python-turma1-2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-turma1-2018" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-turma1-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-turma1-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="cap07" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python-turma1-2018" type="b2602c69:ProjectViewProjectNode" />
@@ -260,8 +229,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.exercicio-7-10-velha">
-    <configuration name="exercicio-7-10-velha" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.funcao">
+    <configuration name="exercicio-8-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-turma1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -269,17 +238,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cap07" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cap08" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap07/exercicio-7-10-velha.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap08/exercicio-8-1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="exercicio-7-7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exercicio-8-2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-turma1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -287,17 +256,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cap07" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cap08" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap07/exercicio-7-7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap08/exercicio-8-2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="exercicio-7-8" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exercicio-8-3-area-do-quadrado" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-turma1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -305,17 +274,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cap07" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cap08" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap07/exercicio-7-8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap08/exercicio-8-3-area-do-quadrado.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="exercicio-7-9" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="funcao" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-turma1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -323,17 +292,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cap07" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cap08" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap07/exercicio-7-9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap08/funcao.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="jogo_da_forca" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="listagem-8-4-par-ou-impar" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-turma1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -341,30 +310,30 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cap07" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cap08" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap07/jogo_da_forca.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cap08/listagem-8-4-par-ou-impar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.jogo_da_forca" />
-      <item itemvalue="Python.exercicio-7-7" />
-      <item itemvalue="Python.exercicio-7-8" />
-      <item itemvalue="Python.exercicio-7-9" />
-      <item itemvalue="Python.exercicio-7-10-velha" />
+      <item itemvalue="Python.funcao" />
+      <item itemvalue="Python.listagem-8-4-par-ou-impar" />
+      <item itemvalue="Python.exercicio-8-1" />
+      <item itemvalue="Python.exercicio-8-2" />
+      <item itemvalue="Python.exercicio-8-3-area-do-quadrado" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.exercicio-7-10-velha" />
-        <item itemvalue="Python.exercicio-7-9" />
-        <item itemvalue="Python.exercicio-7-8" />
-        <item itemvalue="Python.exercicio-7-7" />
-        <item itemvalue="Python.jogo_da_forca" />
+        <item itemvalue="Python.funcao" />
+        <item itemvalue="Python.exercicio-8-3-area-do-quadrado" />
+        <item itemvalue="Python.exercicio-8-2" />
+        <item itemvalue="Python.exercicio-8-1" />
+        <item itemvalue="Python.listagem-8-4-par-ou-impar" />
       </list>
     </recent_temporary>
   </component>
@@ -435,7 +404,14 @@
       <option name="project" value="LOCAL" />
       <updated>1526130456025</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="'tenth commit'">
+      <created>1526136848772</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1526136848772</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -448,12 +424,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1291" y="22" width="1280" height="698" extended-state="0" />
+    <frame x="0" y="22" width="1280" height="778" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24225576" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2406672" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32871974" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38927335" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39969605" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -481,7 +457,8 @@
     <MESSAGE value="'seventh commit'" />
     <MESSAGE value="'eigth commit'" />
     <MESSAGE value="'nineth commit'" />
-    <option name="LAST_COMMIT_MESSAGE" value="'nineth commit'" />
+    <MESSAGE value="'tenth commit'" />
+    <option name="LAST_COMMIT_MESSAGE" value="'tenth commit'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -499,48 +476,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/cap05/exemplos/for-working.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap05/exemplos/for-working2-continue.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="5" column="47" lean-forward="true" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap05/exemplos/Loops/loop-control-break.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap05/exemplos/Loops/while1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap05/exemplos/while-working.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cap05/exemplos/while-working2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cap05/exemplos/lines.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -716,13 +651,6 @@
         <state relative-caret-position="-439" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cap08/fibonacci_hint.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/projetos/bubble_sort1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -734,9 +662,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="278">
           <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding>
-            <element signature="e#164#197#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -744,9 +669,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="41">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -778,13 +700,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cap08/fibonacci.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cap07/exercicio-7-7.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="271">
@@ -799,10 +714,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/cap07/exercicio-7-10-velha.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="78" column="2" selection-start-line="78" selection-start-column="1" selection-end-line="78" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/cap07/exercicio-7-9.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap08/fibonacci_hint.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap08/fibonacci.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap08/listagem-8-4-par-ou-impar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap08/exercicio-8-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap08/exercicio-8-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="21" selection-start-line="8" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap08/exercicio-8-3-area-do-quadrado.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cap08/funcao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
         </state>
       </provider>
     </entry>
