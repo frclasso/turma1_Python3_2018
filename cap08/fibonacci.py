@@ -1,7 +1,11 @@
 def fibo(n):
-    a,b =  0,1
-    while b < 10000:
-        print(b, flush=True)
+    'Print a Fibonnaci series up to n.'
+    a,b = 0,1
+    while a < n:
+        print(a, end=' ', flush=True)
         a,b = b, a+ b
     print()
-#fibo(60)
+
+
+fibo(60)
+print(fibo.__doc__)
