@@ -6,11 +6,11 @@ BANNER = "-" * 35
 
 def format_print(counter, is_reverse=False):
     lst = counter.items()
-    print ("[Unique Words: %d]" % len(lst))
-    print ("%-16s | %16s" % ("Word", "Count"))
-    print (BANNER)
+    print("[Unique Words: %d]" % len(lst))
+    print("%-16s | %16s" % ("Word", "Count"))
+    print(BANNER)
     for word, count in lst:
-        print ("%-16s | %16d" % (word, count))
+        print("%-16s | %16d" % (word, count))
 
 
 def count_words(filename):
