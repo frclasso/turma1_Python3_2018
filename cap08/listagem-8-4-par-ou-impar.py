@@ -4,8 +4,8 @@ def par(x):
 
 
 def par_ou_impar(x):
-    if par(x):
-        return 'par'
+    if par(x):return 'par'
+
     else: return 'impar'
 
 

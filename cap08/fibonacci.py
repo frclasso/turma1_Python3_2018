@@ -3,7 +3,7 @@ def fibo(n):
     a,b = 0,1
     while a < n:
         print(a, end=' ', flush=True)
-        a,b = b, a+ b
+        a,b = b, a + b
     print()
 
 

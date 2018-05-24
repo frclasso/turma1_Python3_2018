@@ -1,5 +1,5 @@
 def fib2(n):
-    'Return a list containing  theFibonacci series up to n.'
+    'Return a list containing  the Fibonacci series up to n.'
     result = []
     a,b = 0,1
     while a < n:
