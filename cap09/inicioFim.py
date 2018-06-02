@@ -8,7 +8,7 @@ O programa deve imprimir apenas as linhas entre esses dois valores(incluindo as
 import sys
 
 if(len(sys.argv)!=4): # aumentamos de 2 para 4
-    print('Erro, uso correto: arquivo.py nome_do_arquivo\n\n')
+    print('Erro, uso correto: arquivo.py nome_do_arquivo, inicio e fim.\n\n')
 else:
     nome=sys.argv[1]
     inicio = int(sys.argv[2])
@@ -17,4 +17,4 @@ else:
     for linha in arquivo.readlines()[inicio-1: fim]:
         print(linha[:-1])
 
-arquivo.close()
+    arquivo.close()

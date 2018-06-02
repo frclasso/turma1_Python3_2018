@@ -1,3 +1,5 @@
+# -*-coding: utf-8 -*-
+
 """Exercício 9.1​ Escreva um programa que receba o nome de um arquivo
 pela linha de comando e que imprima todas as linhas desse arquivo."""
 
@@ -11,5 +13,5 @@ else:
     for linha in arquivo.readlines():
         print(linha[:-1])
 
-arquivo.close()
+    arquivo.close()
 
