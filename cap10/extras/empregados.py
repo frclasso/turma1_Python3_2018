@@ -3,7 +3,7 @@
 
 
 class Employee:
-    'Commom base class for all employees.'
+    'Classe Base para todos os empregados/Commom base class for all employees.'
     empCount = 0
 
     def __init__(self, name, salary):
@@ -12,10 +12,10 @@ class Employee:
         Employee.empCount += 1
 
     def displayCount(self):
-        print(f"Total of Employee {Employee.empCount}")
+        print(f"Total de empregados: {Employee.empCount}")
 
     def displayEmployee(self):
-        print("Name: ", self.name, "-", "Salary: US$", self.salary)
+        print("Nome: ", self.name, "-", "Salario: R$", self.salary)
 
 #This would create the first object of Eployee class
 emp1 = Employee('Zara', 2000)
@@ -42,9 +42,9 @@ emp2.displayEmployee()
 #print(getattr(emp1, 'salary')) # AttributeError: 'Employee' object has no attribute 'salary'
 
 # Modificando atributos internos (Built-In Attibutes)
-print("Employee.__doc__:", Employee.__doc__)
-print("Employee.__name__:", Employee.__name__)
-print("Emplyee.__module: ", Employee.__module__)
-print("Employee.__bases__: ", Employee.__bases__)
-print("Employee.__dict__: ", Employee.__dict__)
+# print("Employee.__doc__:", Employee.__doc__)
+# print("Employee.__name__:", Employee.__name__)
+# print("Emplyee.__module: ", Employee.__module__)
+# print("Employee.__bases__: ", Employee.__bases__)
+# print("Employee.__dict__: ", Employee.__dict__)
 
