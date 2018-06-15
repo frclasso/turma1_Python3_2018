@@ -1,0 +1,7 @@
+Os exemplos que estao contidos neste diretorio foram extraidos do tutorial desenvolvido por
+Regis da Silva do Python Club, Gerenciando banco de dados SQLite3 com Python - Parte 1.
+
+Nos enderecos:
+https://pythonclub.com.br/guia-rapido-comandos-sqlite3.html
+https://pythonclub.com.br/gerenciando-banco-dados-sqlite3-python-parte1.html#inserindo-n-registros-com-uma-tupla-de-dados
+

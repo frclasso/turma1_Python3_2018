@@ -1,21 +1,11 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 
 
 def main():
     try:
-        for line in readfile('xlines.doc'): print(line.strip())
-    except IOError as e:
-        print("Cannot read file", e)
-    except ValueError as e:
-        print('Bad file name.',e )
+        x = int('foo')
+    except ValueError:
+        print('I caugth a ValueError!')
 
 
-def readfile(filename):
-    if filename.endswith('.txt'):
-        fh = open(filename)
-        return fh.readlines()
-    else:
-        raise ValueError("File name must end with '.txt'")
-
-
-if __name__ == "__main__":main()
+if __name__ == '__main__':main()
