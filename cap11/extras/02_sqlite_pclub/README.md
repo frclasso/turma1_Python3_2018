@@ -12,16 +12,16 @@ Caso nao tenha o sqlite3 instalado, baixar e instalar: https://www.sqlite.org/do
 **sqlite3 clientes.db**    (pode ser outro nome para o banco de dados).
 
 
-2)Criando a tabela clientes:
+2) Criando a tabela clientes:
 
-sqlite> CREATE TABLE clientes(
-   ...> id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
-   ...> Nome VARCHAR(100) NOT NULL,
-   ...> CPF VARCHAR(11) NOT NULL,
-   ...> Email VARCHAR(20) NOT NULL,
-   ...> Fone VARCHAR(20),
-   ...> UF VARCHAR(2) NOT NULL
-   ...> );
++ sqlite> CREATE TABLE clientes(
+    + id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+    + Nome VARCHAR(100) NOT NULL,
+    + CPF VARCHAR(11) NOT NULL,
+    + Email VARCHAR(20) NOT NULL,
+    + Fone VARCHAR(20),
+    + UF VARCHAR(2) NOT NULL
+    + );
 
 3) Para visualizar  o codigo SQL que a tabela criou:
 sqlite> **.schema** clientes
@@ -61,7 +61,5 @@ sqlite> DELETE FROM clientes WHERE id=4;
 13) Fazendo **Backup** do Banco:
 sqlite3 clientes.db **.dump > clientes.sql**
 
-
-
-Caso necessite ajuda:
+14) Caso necessite ajuda:
 sqlite>**.help**
