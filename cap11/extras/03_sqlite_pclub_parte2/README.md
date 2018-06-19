@@ -43,6 +43,6 @@ Algumas modificacoes foram feitas em **manager_db.py** a partir da classe Pessoa
 
 + Faca o mesmo para classe Pessoas.
 
-Inclua novos metodos.
++ Inclua novos metodos.
 
 ### Bons estudos.
