@@ -20,7 +20,7 @@ https://www.tutorialspoint.com/sqlite/sqlite_quick_guide.htm
 
 + verifique se os arquivos foram importados corretamente:
 + sqlite3 banco_de_dados.db
-+sqlite> SELECT * FROM banco_de_dados.db
++ sqlite> SELECT * FROM banco_de_dados.db
 
 3. Arquivos necessarios:
 + inserirdados.sql
