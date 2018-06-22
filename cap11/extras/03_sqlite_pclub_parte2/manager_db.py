@@ -4,6 +4,7 @@ import os
 import sqlite3
 import io
 import datetime
+# funciona no terminal mas nao no import
 #import names
 import csv
 import random
